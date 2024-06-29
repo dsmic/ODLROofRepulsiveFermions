@@ -19,4 +19,4 @@ $$g_{2}(x)=\frac{\rho_{ab}(0,0;x,x)}{\sqrt{\rho_{ab}(0,0;0,0)\rho_{ab}(x,x;x,x)}
 ![](results/repulsive_scale.png)
 ![](results/repulsive_factor.png)
 
-This looks like these systems show off diagonal long range order (ODLRO). It seems even possible to add momentum to the $phi_c" wave function without harming ODLRO.
+This looks like these systems show off diagonal long range order (ODLRO). It seems even possible to add momentum to the $\phi_c$ wave function without harming ODLRO.
