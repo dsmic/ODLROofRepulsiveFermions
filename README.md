@@ -50,3 +50,6 @@ in a harmonic trap, Europhysics Letters 109(2), 26005 (2015), doi:10.1209/0295-
 [6] D. Schmicker, A multi particle toy system with analytic solutions to investigate composite bosons in a harmonic potential, https://arxiv.org/abs/2404.14430
 
 
+This repository is found at https://github.com/dsmic/ODLROofRepulsiveFermions
+
+
