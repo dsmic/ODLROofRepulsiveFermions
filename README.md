@@ -1,6 +1,7 @@
 Off diagonal long range order (ODLRO) of composite bosons, formed by two fermions with repulsive behavior
 =========================================================================================================
 
+This repository is found at [https://github.com/dsmic/ODLROofRepulsiveFermions](https://github.com/dsmic/ODLROofRepulsiveFermions)
 
 This python script uses torchquad to do Monte Carlo integrations on multi-particle wave functions of bosons, formed by two fermions with repulsive behavior. This is a very basic approach and any comments in the issues are appreciated.
 
@@ -29,27 +30,22 @@ This looks like these systems show off diagonal long range order (ODLRO). It see
 References:
 
 [1] C. K. Law, Quantum entanglement as an interpretation of bosonic character in composite
-two-particle systems, Phys. Rev. A 71, 034306 (2005), https://arxiv.org/abs/quant-ph/
-0411040.
+two-particle systems, Phys. Rev. A 71, 034306 (2005), [https://arxiv.org/abs/quant-ph/0411040](https://arxiv.org/abs/quant-ph/0411040).
 
 [2] M. D. Jiménez, E. Cuestas, A. P. Majtey and C. Cormick, Composite-boson formalism applied
 to strongly bound fermion pairs in a one-dimensional trap, SciPost Phys. Core 6, 012 (2023),
 doi:10.21468/SciPostPhysCore.6.1.012.
 
 [3] L. Amico, R. Fazio, A. Osterloh and V. Vedral, Entanglement in many-body systems, Rev.
-Mod. Phys. 80, 517 (2008), https://arxiv.org/abs/quant-ph/0703044.
+Mod. Phys. 80, 517 (2008), [https://arxiv.org/abs/quant-ph/0703044](https://arxiv.org/abs/quant-ph/0703044).
 
 [4] C. Cormick and L. Ermann, Ground state of composite bosons in low-dimensional graphs,
-Phys. Rev. A 107, 043324 (2023), doi:10.1103/PhysRevA.107.043324, https://arxiv.org/
-abs/2304.14834.
+Phys. Rev. A 107, 043324 (2023), doi:10.1103/PhysRevA.107.043324, [https://arxiv.org/abs/2304.14834](https://arxiv.org/abs/2304.14834).
 
 [5] T. Sowiński, M. Gajda and K. Rzażewski, Pairing in a system of a few attractive fermions
 in a harmonic trap, Europhysics Letters 109(2), 26005 (2015), doi:10.1209/0295-
 5075/109/26005.
 
-[6] D. Schmicker, A multi particle toy system with analytic solutions to investigate composite bosons in a harmonic potential, https://arxiv.org/abs/2404.14430
-
-
-This repository is found at https://github.com/dsmic/ODLROofRepulsiveFermions
+[6] D. Schmicker, A multi particle toy system with analytic solutions to investigate composite bosons in a harmonic potential, [https://arxiv.org/abs/2404.14430](https://arxiv.org/abs/2404.14430)
 
 
