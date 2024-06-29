@@ -1,3 +1,7 @@
+Off diagonal long range order (ODLRO) of composite bosons, formed by two fermions with repulsive behavior
+=========================================================================================================
+
+
 This python script uses torchquad to do Monte Carlo integrations on multi-particle wave functions of bosons, formed by two fermions with repulsive behavior. This is a very basic approach and any comments in the issues are appreciated.
 
 We use a simple two particle wave function with "repulsion" for the two different particles a and b
